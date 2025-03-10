@@ -2,21 +2,9 @@
   <h1>
     Clerk Webhooks Events to Novu Workflows
   </h1>
-  <a href="https://www.npmjs.com/package/@clerk/clerk-js">
-    <img alt="" src="https://img.shields.io/npm/dm/@clerk/clerk-js" />
-  </a>
-  <a href="https://discord.com/invite/b5rXHjAg7A">
-    <img alt="Discord" src="https://img.shields.io/discord/856971667393609759?color=7389D8&label&logo=discord&logoColor=ffffff" />
-  </a>
-  <a href="https://twitter.com/clerkdev">
-    <img alt="Twitter" src="https://img.shields.io/twitter/url.svg?label=%40clerkdev&style=social&url=https%3A%2F%2Ftwitter.com%2Fclerkdev" />
-  </a>
-  <br />
-  <br />
-  <img alt="Clerk Hero Image" src="public/og.png">
 </div
 
-### Description
+## Description
 
 This repository contains a simple webhook endpoint that listens for Clerk webhook events and triggers Novu workflows.
 
