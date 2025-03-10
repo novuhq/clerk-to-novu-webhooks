@@ -4,8 +4,6 @@
   </h1>
 </div
 
-## Description
-
 This repository contains a simple webhook endpoint that listens for Clerk webhook events and triggers Novu workflows.
 
 Check out the [Integration Guide](https://docs.novu.co/guides/webhooks/clerk) to learn more.
